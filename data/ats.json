@@ -1,0 +1,98 @@
+{
+"candidate_id": "ats-101",
+"name": "Ashutosh Verma",
+"contact": {
+"emails": [
+"[ashutosh.verma1132@gmail.com](mailto:ashutosh.verma1132@gmail.com)"
+],
+"phones": [
+"+91-8299819711"
+],
+"links": [
+"LinkedIn",
+"GitHub",
+"LeetCode"
+]
+},
+"headline": "Computer Science Engineering Student | Full-Stack Web Developer",
+"years_experience": 0.0,
+"skills": [
+"C",
+"C++",
+"Python",
+"R",
+"HTML",
+"CSS",
+"React.js",
+"Node.js",
+"Flask",
+"MongoDB",
+"MySQL",
+"Git",
+"GitHub",
+"VS Code",
+"Data Structures & Algorithms",
+"Object-Oriented Programming",
+"Database Management Systems",
+"Operating Systems",
+"Data Analytics"
+],
+"history": {
+"jobs": [
+{
+"company": "Prasunet Company",
+"role": "Web Development Intern",
+"start": "2024-07",
+"end": "2024-07",
+"desc": "Worked on web development projects and gained hands-on experience with modern web technologies."
+}
+],
+"schools": [
+{
+"name": "Noida Institute of Engineering Technology",
+"degree": "Bachelor of Technology",
+"field": "Computer Science Engineering",
+"start": "2023-10",
+"end": "2027-07",
+"cgpa": "8.81"
+},
+{
+"name": "Sunbeam School",
+"degree": "Senior School Certificate (Class XII)",
+"field": "Science",
+"start": "2020-04",
+"end": "2022-07",
+"percentage": "76.0%"
+},
+{
+"name": "Sunbeam School",
+"degree": "Secondary School Examination (Class X)",
+"field": "General",
+"start": "2018-04",
+"end": "2020-07",
+"percentage": "89.8%"
+}
+],
+"projects": [
+{
+"name": "AI Powered Rail Madad System",
+"description": "Developed a full-stack railway complaint management system with secure complaint submission, evidence upload, real-time tracking, role-based authentication, and Flask + MongoDB backend APIs."
+},
+{
+"name": "Weather Forecast System",
+"description": "Built a responsive weather forecasting application using public weather APIs with a modular frontend and backend architecture."
+}
+]
+},
+"certifications": [
+"EnglishScore Certification (CEFR B2)",
+"Introduction to MongoDB (MongoDB University)",
+"Design Thinking for Innovation (Coursera)"
+],
+"achievements": [
+"Smart India Hackathon (SIH) Participant",
+"3rd Place - College AI Coding Challenge",
+"Adobe India Online Hackathon Participant",
+"Naukri Campus Young Turks 2025 Participant"
+]
+}

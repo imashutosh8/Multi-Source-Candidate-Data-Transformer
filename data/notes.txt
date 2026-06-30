@@ -1,0 +1,14 @@
+Candidate: Ashutosh Verma
+
+Email: [ashutosh.verma1132@gmail.com](mailto:ashutosh.verma1132@gmail.com)
+
+Phone: +91 8299819711
+
+Headline: Computer Science undergraduate with strong problem-solving skills and experience in full-stack web development, data structures & algorithms, and backend application development.
+
+Skills include C, C++, Python, R, HTML, CSS, React.js, Node.js, Flask, MongoDB, MySQL, Git, GitHub, VS Code, Data Structures & Algorithms, Object-Oriented Programming (OOP), Database Management Systems (DBMS), Operating Systems, and Data Analytics.
+
+Notes: Currently pursuing B.Tech in Computer Science & Engineering with an 8.81 CGPA. Completed a Web Development internship at Prasunet Company (Jul 2024). Built an AI Powered Rail Madad System featuring secure complaint submission, evidence upload, real-time tracking, role-based authentication, and scalable Flask + MongoDB backend APIs. Also developed a Weather Forecast System using public weather APIs with a responsive web interface. Participated in Smart India Hackathon (SIH), Adobe India Online Hackathon, and Naukri Campus Young Turks 2025. Secured 3rd place in a college-level AI Coding Challenge. Holds certifications in EnglishScore (CEFR B2), Introduction to MongoDB, and Design Thinking for Innovation.
+
+Education: B.Tech in Computer Science Engineering from Noida Institute of Engineering Technology (Oct 2023 – Jul 2027, CGPA: 8.81). Completed Class XII from Sunbeam School (76.0%, Apr 2020 – Jul 2022) and Class X from Sunbeam School (89.8%, Apr 2018 – Jul 2020).
+

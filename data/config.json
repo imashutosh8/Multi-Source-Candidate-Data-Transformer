@@ -1,0 +1,42 @@
+{
+  "fields": [
+    {
+      "path": "full_name"
+    },
+    {
+      "path": "primary_email",
+      "from": "emails[0]"
+    },
+    {
+      "path": "phone",
+      "from": "phones[0]"
+    },
+    {
+      "path": "skills"
+    },
+    {
+      "path": "overall_confidence"
+    }
+  ],
+  "include_confidence": true,
+  "on_missing": "null",
+  "validation": {
+    "rules": [
+      {
+        "field": "full_name",
+        "required": true,
+        "type": "string"
+      },
+      {
+        "field": "primary_email",
+        "required": true,
+        "type": "email"
+      },
+      {
+        "field": "phone",
+        "required": false,
+        "type": "phone"
+      }
+    ]
+  }
+}

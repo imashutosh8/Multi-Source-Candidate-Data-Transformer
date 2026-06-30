@@ -1,0 +1,69 @@
+{
+  "full_name": {
+    "value": "Ashutosh Verma",
+    "confidence": 0.99,
+    "provenance": {
+      "field": "full_name",
+      "source": "ats.json",
+      "method": "JSON ATS Import -> Name Normalized",
+      "timestamp": "2026-06-29T18:57:11.122426"
+    }
+  },
+  "primary_email": {
+    "value": "ashutosh.verma1132@gmail.com",
+    "confidence": 0.95,
+    "provenance": {
+      "field": "emails",
+      "source": "recruiter.csv",
+      "method": "CSV Mapping -> Email Normalized",
+      "timestamp": "2026-06-29T18:57:11.116556"
+    }
+  },
+  "phone": {
+    "value": "+18299819711",
+    "confidence": 0.95,
+    "provenance": {
+      "field": "phones",
+      "source": "recruiter.csv",
+      "method": "CSV Mapping -> Phone Normalized (E.164)",
+      "timestamp": "2026-06-29T18:57:11.117654"
+    }
+  },
+  "skills": {
+    "value": [
+      "Python",
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "C++",
+      "R",
+      "HTML",
+      "CSS",
+      "React.Js",
+      "Node.js",
+      "Flask",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "Github",
+      "Vs Code",
+      "Data Structures & Algorithms",
+      "Object-Oriented Programming",
+      "Database Management Systems",
+      "Operating Systems",
+      "Data Analytics",
+      "JavaScript",
+      "React",
+      "Object-Oriented Programming (Oop)",
+      "Database Management Systems (Dbms)",
+      "And Data Analytics."
+    ],
+    "confidence": 1.0,
+    "provenance": null
+  },
+  "overall_confidence": {
+    "value": 0.9441,
+    "confidence": 1.0,
+    "provenance": null
+  }
+}
